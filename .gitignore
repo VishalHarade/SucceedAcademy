@@ -18,6 +18,7 @@
 /out/
 /.agents
 /.claude
+/.windsurf
 .env
 # production
 /build
